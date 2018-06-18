@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MenuController.swift
 //  MonRestoDuMonde
 //
 //  Created by mac on 18/06/2018.
@@ -8,13 +8,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MenuController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-    }
 
+     
+    }
+    
+
+   
 
 }
-
